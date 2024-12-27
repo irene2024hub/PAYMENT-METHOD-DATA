@@ -45,7 +45,35 @@ satisfaction. This study addresses the following problems**:
 4.	**Examine the geographic distribution of transactions to tailor marketing strategies and business expansion plans**.
 5.	**Provide actionable insights for enhancing customer satisfaction and improving transactional efficiency**.
 
-ORDER VALUE BY CITY ANALYSIS
+## METHODOLOGY
+##### DATASET CHARACTERISTICS
+1. ~ **TRANSACTION ID**
+**Unique Identifier: Each transaction has a unique identifier that distinguishes it from all other transactions**.
+**Purpose: Used for tracking and referencing specific transactions in databases and communications.**
+
+2. **CITY**
+**Location: Indicates the geographical location where the transaction was made (e.g Bangalore, Chennai).**
+
+**Usage: Helps in analyzing geographic distribution and identifying key markets or regions.**
+
+3. **PAYMENT METHOD**
+**Type: Specifies the method used to complete the transaction (e.g., PAYTM, SIMPL, GPAY).**
+Importance: Critical for understanding customer payment preferences and optimizing payment processing systems.
+
+4. **TRANSACTION TIME**
+**Timestamp: Indicates the exact date and time when the transaction occurred.**
+
+**Format: Typically follows a standard datetime format (e.g., YYYY-MM-DD HH:MM:SS)**.
+
+**Analysis: Useful for identifying trends, peak transaction times, and seasonal patterns.**
+
+5. **ORDER VALUE**
+**Amount: Represents the monetary value of the transaction.**
+
+~ **TOOLS USED: Microsoft Excel and Power BI for data cleansing, transformation and visualization**
+~ **DATA SOURCE: KAGGLE**
+
+#### ORDER VALUE BY CITY ANALYSIS
 
 ![image](https://github.com/user-attachments/assets/906039b1-3525-473e-a05e-8b3b76a13fc7)
 
