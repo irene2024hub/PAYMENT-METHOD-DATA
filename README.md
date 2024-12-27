@@ -45,5 +45,10 @@ satisfaction. This study addresses the following problems**:
 4.	**Examine the geographic distribution of transactions to tailor marketing strategies and business expansion plans**.
 5.	**Provide actionable insights for enhancing customer satisfaction and improving transactional efficiency**.
 
+ORDER VALUE BY CITY ANALYSIS
 
-   
+![image](https://github.com/user-attachments/assets/906039b1-3525-473e-a05e-8b3b76a13fc7)
+
+   ORDER VALUE BY PAYMENT ANALYSIS
+
+![image](https://github.com/user-attachments/assets/4433bd7f-587b-4e6d-86af-ccc31558fba5)
