@@ -7,8 +7,9 @@
 **By examining the average order values, frequent pricing points, and geographic 
 concentration of transactions, this study provides insights into customer
 behavior and payment preferences.**
-**The findings will inform strategies for optimizing payment processes, enhancing
-customer satisfaction, and improving**
+**The findings will inform strategies for optimizing payment processes, 
+enhancing customer satisfaction, and improving**
+
 
 overall business performance
 
