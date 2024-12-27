@@ -1,5 +1,5 @@
 # PAYMENT-METHOD-DATA
-## TOPIC : ANALYZING CUSTOMER PAYMENT PREFERENCES AND ORDER PATTERNS IN E-COMMERCE and Order Value Patterns in E-commerce:
+## TOPIC :  CUSTOMER PAYMENT PREFERENCES E-COMMERCE 
 ### A Case Study of PAYTM, SIMPL, and GPAY"
 #### ABSTRACT
 **This study aims to analyze payment method preferences among customers in a specific retail context**. 
