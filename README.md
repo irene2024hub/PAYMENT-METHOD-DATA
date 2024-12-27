@@ -72,6 +72,8 @@ Importance: Critical for understanding customer payment preferences and optimizi
 
 ~ **TOOLS USED: Microsoft Excel and Power BI for data cleansing, transformation and visualization**
 ~ **DATA SOURCE: KAGGLE**
+## E-COMMERCE DASHBOARD
+![image](https://github.com/user-attachments/assets/ac2e3b2c-46a4-4556-8c78-159e14dfbc82)
 
 #### ORDER VALUE BY CITY ANALYSIS
 
